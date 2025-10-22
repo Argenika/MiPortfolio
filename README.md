@@ -29,5 +29,8 @@ Aquí puedes ver algunos de mis proyectos:
 -   Tecnologías:  C#
 -   Repo:[ https://github.com/Argenika/RunningApp ]
 
+-   Descripción: Simulador Bingo Consola
+-   Tecnologías: JAVA
+-   Repo:[https://github.com/Argenika/Bingo]
 
 
